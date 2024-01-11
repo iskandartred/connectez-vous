@@ -1,0 +1,23 @@
+.container {
+    width: 100%;
+    max-width: 1240px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.hero {
+    background: url(/img/nature.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+.tb{
+    margin-left: 380px;
+}
+.btn{
+    background-color: transparent;
+    border: 1px solid black;
+}
